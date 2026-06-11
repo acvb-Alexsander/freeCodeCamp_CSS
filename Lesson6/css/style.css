@@ -1,0 +1,19 @@
+body{
+    padding: 10%;
+    font-size: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* input, button{
+    font: inherit;
+} */
+
+p{
+    /* text-decoration: none;
+    text-transform: lowercase;
+    text-align: justify;
+    text-indent: 2em; */
+    line-height: 1.2;
+    font-weight: bolder;
+    font-style: oblique;
+}
